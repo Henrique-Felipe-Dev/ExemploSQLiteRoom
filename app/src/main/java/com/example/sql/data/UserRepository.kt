@@ -9,4 +9,12 @@ class UserRepository(private val userDao: UserDao) {
     fun addUser(user: User){
         userDao.addUser(user)
     }
+
+    fun updateUser(user: User){
+        userDao.updateUser(user)
+    }
+
+    fun deleteUser(user: User){
+        userDao.deleteUser(user)
+    }
 }

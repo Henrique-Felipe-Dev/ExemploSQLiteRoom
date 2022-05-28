@@ -8,6 +8,9 @@ class User(
     @PrimaryKey(autoGenerate = true)
     val id: Int,
     val nome: String,
-    val sobrenome: String,
-    val idade: Int
+    val raca: String,
+    val sexo: String,
+    val idade: Int,
+    val dano: Double,
+    val hp: Double
 )

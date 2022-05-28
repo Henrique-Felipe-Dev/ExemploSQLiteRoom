@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Aluno/Downloads/ExemploSQLiteRoom-master/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Aluno/Downloads/ExemploSQLiteRoom-master/app/src/main/res/layout/custom_row.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Aluno/Downloads/ExemploSQLiteRoom-master/app/src/main/res/layout/fragment_add.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Aluno/Downloads/ExemploSQLiteRoom-master/app/src/main/res/layout/fragment_lista.xml" value="0.358695652173913" />
         <entry key="..\:/Users/usuario/AndroidStudioProjects/Sql/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.1" />
         <entry key="..\:/Users/usuario/AndroidStudioProjects/Sql/app/src/main/res/layout/activity_main.xml" value="0.17083333333333334" />
         <entry key="..\:/Users/usuario/AndroidStudioProjects/Sql/app/src/main/res/layout/custom_row.xml" value="0.25" />
